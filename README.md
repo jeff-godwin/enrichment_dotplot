@@ -9,7 +9,7 @@ Input file should have 4 columns with the following headers -
 
 Type  Count  Value  P-value
 
-Type - pathway term
-Count - no of enriched genes
-Value - Fold enrichment/enrichment ratio
+Type - pathway term;
+Count - no of enriched genes;
+Value - Fold enrichment/enrichment ratio;
 P-value - statistical p-value, q-value or FDR
